@@ -6,7 +6,7 @@
     "extensions": [
         "ms-python.python"
     ],
-    "settings": [
-        "editor.tabSize": 2,
-    ],
+    "settings": {
+        "editor.tabSize": 2
+    }
 }
